@@ -480,6 +480,9 @@ footer {
   color: black;
   margin-bottom: 0px;
 }
+.icon-instagram {
+  fill: #1E2833;
+}
 
 .footer-One {
   display: flex;
