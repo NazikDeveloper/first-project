@@ -480,6 +480,20 @@ footer {
   color: black;
   margin-bottom: 0px;
 }
+.address-icon {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+}
+
+.icons-text {
+  font-weight: 500;
+  font-size: 15px;
+  color: #1E2833;
+  margin-left: 5px;
+  line-height: 1.9;
+}
+            
 
 
 .footer-One {
